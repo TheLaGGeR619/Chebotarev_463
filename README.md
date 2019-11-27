@@ -1,2 +1,2 @@
 # Chebotarev_463
-web-tise
+web-site
